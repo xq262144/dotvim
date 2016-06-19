@@ -57,6 +57,7 @@ Plugin 'vim-git'
 Plugin 'vim-javascript'
 Plugin 'vim-jinja'
 Plugin 'vim-go'
+Plugin 'vim-scala'
 
 " Colorscheme
 Plugin 'ir_black'
